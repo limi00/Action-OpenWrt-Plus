@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 # Modify default IP
-#sed -i 's/192.168.1.1/192.168.31.1/g' package/base-files/files/bin/config_generate
+#sed -i 's/192.168.1.1/192.168.50.1/g' package/base-files/files/bin/config_generate
 
 # Remove r8168 driver
 rm -rf package/ctcgfw/r8168
